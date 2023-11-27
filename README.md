@@ -18,9 +18,9 @@
 <a href="mailto:aronmilahela@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>
     
-<img src="./image/carbon (6).png" width="100%">
+<img src="./carbon (6).png" width="100%">
 
-<img src="./image/carbon (11).png" width="100%">  
+<img src="./carbon (11).png" width="100%">  
 
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
